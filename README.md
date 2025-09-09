@@ -8,7 +8,7 @@ code | visuals | flow
 ### about me
 - learning frontend development  
 - exploring ui/ux & clean design  
-- building small projects to grow  
+- building projects to grow  
 
 ---
 
